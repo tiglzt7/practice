@@ -1,3 +1,3 @@
 # practice
 練習用
-rebase
+rebase(コンフリクト要)
